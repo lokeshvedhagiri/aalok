@@ -1,0 +1,6 @@
+*/__pycache__/
+_local_test/
+_test_audios/
+local_test.py
+test.py
+.env
