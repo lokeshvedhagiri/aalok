@@ -1,6 +1,13 @@
-*/__pycache__/
+__pycache__/
+*.pyc
+*.pyo
+
 _local_test/
 _test_audios/
 local_test.py
 test.py
+
 .env
+
+*.json
+*.log
